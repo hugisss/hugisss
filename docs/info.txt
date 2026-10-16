@@ -1,1 +1,2 @@
 Doplňkové informace k projektu
+Tento soubor slouží pro dokumentaci.
