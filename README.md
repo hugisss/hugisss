@@ -1,5 +1,5 @@
 # Moje koníčky
-**Tento repozitář slouží jako přehled mých oblíbených aktivit ve volném čase.**
+**Tento repozitář slouží jako přehled hezkých fotek.**
 
 -Tento projekt je **velmi zajímavý** a *baví mě*.
 
@@ -13,7 +13,7 @@
 ![Druhý obrázek](images/pretty3.jpg)
 [Navštiv Wikipedii](https://www.wikipedia.org)
 
-[moje oblíbená stránka](https://www.google.com).
+[moje oblíbená stránka]([https://www.google.com](https://www.dpzone.in/beautiful-sunset-pfp/).
 
 ---
 *Autor: Hugo Bár | Aktualizováno v roce 2026*
