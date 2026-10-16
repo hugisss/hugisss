@@ -4,3 +4,5 @@ Tento repozitář slouží jako přehled mých oblíbených aktivit ve volném �
 Přidání hlavního nadpisu
 
 ![Můj obrázek](images/pretty.jpg)
+
+Podívej se na [moje oblíbená stránka](https://www.google.com).
