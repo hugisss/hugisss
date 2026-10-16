@@ -14,3 +14,6 @@
 [Navštiv Wikipedii](https://www.wikipedia.org)
 
 [moje oblíbená stránka](https://www.google.com).
+
+---
+*Autor: Hugo Bár | Aktualizováno v roce 2026*
