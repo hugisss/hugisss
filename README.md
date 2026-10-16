@@ -8,4 +8,4 @@ Tento repozitář slouží jako přehled mých oblíbených aktivit ve volném �
 
 ![Můj obrázek](images/pretty.jpg)
 
-Podívej se na [moje oblíbená stránka](https://www.google.com).
+Podívej se na [mojí oblíbená stránka](https://www.google.com).
