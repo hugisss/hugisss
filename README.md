@@ -13,7 +13,7 @@
 ![Druhý obrázek](images/pretty3.jpg)
 [Navštiv Wikipedii](https://cs.wikipedia.org/wiki/Wikipedie:Obr%C3%A1zek_t%C3%BDdne)
 
-[moje oblíbená stránka]([https://www.google.com](https://www.dpzone.in/beautiful-sunset-pfp/).
+[moje oblíbená stránka]([https://www.google.com](https://www.dpzone.in/beautiful-sunset-pfp).
 
 ---
 *Autor: Hugo Bár | Aktualizováno v roce 2026*
