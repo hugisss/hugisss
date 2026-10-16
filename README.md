@@ -1,4 +1,4 @@
-# Moje koníčky
+# Hezké Obrázky
 **Tento repozitář slouží jako přehled hezkých fotek.**
 
 -Tento projekt je **velmi zajímavý** a *baví mě*.
@@ -11,7 +11,7 @@
 
 ![Můj obrázek](images/pretty.jpg)
 ![Druhý obrázek](images/pretty3.jpg)
-[Navštiv Wikipedii](https://www.wikipedia.org)
+[Navštiv Wikipedii](https://cs.wikipedia.org/wiki/Wikipedie:Obr%C3%A1zek_t%C3%BDdne)
 
 [moje oblíbená stránka]([https://www.google.com](https://www.dpzone.in/beautiful-sunset-pfp/).
 
