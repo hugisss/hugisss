@@ -1,6 +1,8 @@
 # Moje koníčky
 Tento repozitář slouží jako přehled mých oblíbených aktivit ve volném čase.
-Tento projekt je **velmi zajímavý** a *baví mě*.
+
+-Tento projekt je **velmi zajímavý** a *baví mě*.
+
 ### Co zde najdeš:
 - Fotky a obrázky
 - Užitečné odkazy
