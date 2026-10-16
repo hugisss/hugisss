@@ -9,4 +9,5 @@ Tento repozitář slouží jako přehled mých oblíbených aktivit ve volném �
 ![Můj obrázek](images/pretty.jpg)
 ![Druhý obrázek](images/pretty3.jpg)
 [Navštiv Wikipedii](https://www.wikipedia.org)
+
 Podívej se na [mojí oblíbená stránka](https://www.google.com).
