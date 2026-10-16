@@ -1,5 +1,5 @@
 # Moje koníčky
-Tento repozitář slouží jako přehled mých oblíbených aktivit ve volném čase.
+**Tento repozitář slouží jako přehled mých oblíbených aktivit ve volném čase.**
 
 -Tento projekt je **velmi zajímavý** a *baví mě*.
 
